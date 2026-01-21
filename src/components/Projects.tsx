@@ -47,6 +47,30 @@ const Projects = () => {
       githubLink: 'https://github.com/RamaduguSaikiran/Crop-Disease-Detection',
       color: 'from-green-500 to-emerald-600'
     },
+    {
+      id: 3,
+      title: 'AI Vision Extract',
+      description: 'AI-powered computer vision web app for background removal, replacement, blur, and batch image processing.',
+      technologies: [
+        'Python',
+        'Flask',
+        'PyTorch',
+        'U-Net (ResNet34)',
+        'OpenCV',
+        'Pillow',
+        'NumPy',
+        'HTML',
+        'Tailwind CSS',
+        'JavaScript',
+        'Docker'
+      ],
+      image: 'https://images.unsplash.com/photo-1604871000636-074fa5117945',
+      detailedDescription:
+        'AI Vision Extract is a full-stack computer vision application built using Flask and PyTorch. It leverages a custom U-Net segmentation model with a ResNet34 encoder to accurately separate foreground subjects from backgrounds. The application supports background removal, background color or image replacement, portrait-style background blur, and batch image processing. Advanced image manipulation is handled using OpenCV, Pillow, and NumPy, while the frontend features a cinematic glassmorphism UI built with Tailwind CSS and custom JavaScript interactions. The app is fully containerized using Docker and optimized with lazy model loading for efficient deployment.',
+      githubLink: 'https://github.com/RamaduguSaikiran/AI-Vision-Extract',
+      demoLink: 'https://ai-vision-extract.onrender.com',
+      color: 'from-purple-500 to-pink-600'
+    }
   ];
 
   const openProjectModal = (project: Project) => {
