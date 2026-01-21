@@ -54,7 +54,7 @@ const Experience = () => {
 
   const experiences = [
     {
-      title: 'Full‑Stack Developer',
+      title: 'MERN‑Stack Developer',
       company: 'Edunet Foundation',
       period: 'Mar 2025 – Apr 2025',
       responsibilities: [
