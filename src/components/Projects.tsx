@@ -87,7 +87,7 @@ const Projects = () => {
   image: 'https://images.unsplash.com/photo-1719980960750-d55ee4bb98f3?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   detailedDescription:
     'A premium, cinematic 3D website inspired by Royal Enfield motorcycles. The application uses a scroll-driven animation engine that renders high-resolution image sequences on an HTML5 Canvas, creating a smooth 3D-like rotation and assembly effect as users scroll. Built with Next.js App Router and TypeScript, the system maps scroll progress to animation frames using Framer Motion’s useScroll and requestAnimationFrame for near-60fps performance. The site is fully data-driven, allowing new motorcycle models to be added via a TypeScript configuration file. A refined design system featuring glassmorphism UI elements, brand-specific color themes, and cinematic typography delivers a premium visual experience.',
-  githubLink: 'https://github.com/RamaduguSaikiran/Royal-Enfield-Scrollytelling',
+  githubLink: 'https://github.com/RamaduguSaikiran/Royal-Enfield-3D',
   demoLink: 'https://royal-enfield-scroll.vercel.app',
   color: 'from-yellow-500 to-red-700'
 }
