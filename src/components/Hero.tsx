@@ -135,7 +135,7 @@ const Hero = () => {
             <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full border-4 border-white dark:border-gray-800 overflow-hidden relative bg-white dark:bg-gray-800 shadow-xl">
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-purple-500/10 z-10"></div>
               <img
-                src="https://i.postimg.cc/prtFvj7P/Whats-App-Image-2025-01-26-at-15-21-05-f40ba065.jpg"
+                src="https://ibb.co/kgXsfsJP"
                 alt="Ramadugu Sai Kiran"
                 className="w-full h-full object-cover transition-transform group-hover:scale-105 duration-700"
               />
