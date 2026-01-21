@@ -81,6 +81,19 @@ const Experience = () => {
         'Designed RESTful APIs to streamline CRUD and improve data flow.',
       ],
       color: 'bg-gradient-to-br from-blue-500 to-blue-600',
+    },
+    {
+      title: 'AI Developer Intern',
+      company: 'Infosys Springboard',
+      period: 'Nov 2025 – Dec 2025',
+      responsibilities: [
+        'Developed an AI-powered computer vision web application (AI Vision Extract) for background removal, replacement, portrait blur, and batch image processing.',
+        'Implemented a custom U-Net segmentation model with a ResNet34 encoder using PyTorch for accurate foreground extraction.',
+        'Built a Flask-based backend with optimized image pipelines using OpenCV, Pillow, and NumPy.',
+        'Designed a cinematic glassmorphism UI using CSS, enabling real-time previews via Base64 image rendering.',
+        'Containerized the application using Docker and optimized performance through lazy model loading for efficient deployment.'
+      ],
+      color: 'bg-gradient-to-br from-purple-500 to-pink-600',
     }
   ];
 
